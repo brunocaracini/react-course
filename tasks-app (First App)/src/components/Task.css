@@ -1,0 +1,8 @@
+.taskName{
+   border: 1px solid lightgray;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   font-family: sans-serif;
+   font-size: 15px;
+}
